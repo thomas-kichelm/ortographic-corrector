@@ -1,0 +1,3 @@
+nltk
+win10toast
+pynput
